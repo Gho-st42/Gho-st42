@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a CS student at MNU<br>🤝 I’m looking for help with Back-End<br>🌱 I’m currently learning Full-Stack Development<br>⚡ Fun fact: I'm 18
+🔭 I’m currently a CS student at MNU<br>🤝 I’m looking for help with Back-End
 
 
 ## 🌐 Socials:
